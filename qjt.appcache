@@ -1,18 +1,19 @@
 CACHE MANIFEST
-/css/swiper.min.css
-/css/base.css
-/js/jquery.min.js
-/js/swiper.jquery.min.js
-/images/logo.png
-/images/top-me-white.png
-/images/banner1.jpg
-/images/banner3.jpg
-/images/qjjc.jpg
-/images/qj3d.jpg
-/images/qjhq.jpg
-/images/qjcp.jpg
-/images/qjsj.jpg
-/images/anli1.jpg
-/images/anli2.jpg
-/images/anli3.jpg
-/images/anli4.jpg
+# 2017-06-2 v1.0.0
+css/swiper.min.css
+css/base.css
+js/jquery.min.js
+js/swiper.jquery.min.js
+images/logo.png
+images/top-me-white.png
+images/banner1.jpg
+images/banner3.jpg
+images/qjjc.jpg
+images/qj3d.jpg
+images/qjhq.jpg
+images/qjcp.jpg
+images/qjsj.jpg
+images/anli1.jpg
+images/anli2.jpg
+images/anli3.jpg
+images/anli4.jpg
